@@ -194,7 +194,7 @@
   "tribes.yadakk": "Yădakk",
   "tribes.yadakk.info": "{0} začal jako kočovný kmen na krásných, ale drsných pláních Chalí. Teď jsou z nich světoví obchodníci, kteří svou říši protkávají  impozantními obchodními cestami. \n\n{0} začíná hru s technologií ‚{1}‘.",
   "tribes.polaris": "Polaris",
-  "tribes.polaris.info": "{0} po léta přebýval uvězněn v nejzazších oblastech mrazivé tundry, než mu požehnal nepoznatelný Gaami a dal mu moc rozšiřovat svou nepřirozeně zaledněnou krajinu dál, než to dovoluje podnebí. \n\nSe silou saní a Mamůnků se tajemný kmen {0} rozhodl pohřbít svět v ledu a udělat ze země mrazivý ráj. \n\n{0} začíná hru se schopností zmrazit okolní krajinu pomocí Mooniho.",
+  "tribes.polaris.info": "{0} po léta přebýval uvězněn v nejzazších oblastech mrazivé tundry, než mu požehnal nepoznatelný Gámi a dal mu moc rozšiřovat svou nepřirozeně zaledněnou krajinu dál, než to dovoluje podnebí. \n\nSe silou saní a Mamůtků se tajemný kmen {0} rozhodl pohřbít svět v ledu a udělat ze země mrazivý ráj. \n\n{0} začíná hru se schopností zmrazit okolní krajinu pomocí Mooniho.",
 
   "building.capital.owner": "{0} je hlavní město kmene {1}",
   "building.capital.owner.former": "{0} je bývalé hlavní město říše kmene {1} aktuálně zabrané kmenem {2}",
@@ -270,7 +270,7 @@
   "unit.names.giant": "Obr",
   "unit.names.crab": "Krab",
   "unit.names.egg": "Dračí vejce",
-  "unit.names.wendy": "Gaami",
+  "unit.names.wendy": "Gámi",
   "unit.names.bunny": "Zajíček",
   "unit.names.scout": "Průzkumník",
   "unit.names.boat": "Člun",
