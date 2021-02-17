@@ -104,7 +104,7 @@
   "gamesettings.continue": "POKRAČOVAT",
   "gamesettings.unspecified": "Cokoliv",
 
-  "gamesettings.timelimit: "Časový limit",
+  "gamesettings.timelimit": "Časový limit",
 
   "gamemode.perfection.caps": "DOKONALOST",
   "gamemode.perfection": "Dokonalost",
@@ -120,7 +120,7 @@
   "gamemode.domination.loss": "Vaše poslední město podlehlo, jste poraženi.",
 
 
-  "gamemode.custom.caps": VLASTNÍ",
+  "gamemode.custom.caps": "VLASTNÍ",
   "gamemode.custom.description.button": "Nastavte si hru podle sebe a hrajte, jak chcete.",
   "gamemode.sandbox": "Nekonečno",
   "gamemode.sandbox.description": "Hrajte jakkoliv, navěky věků",
@@ -617,7 +617,7 @@
   "techview.locked.info": "{0} se musí vyzkoumat dřív než tato technologie.",
   "techview.completed": "(vyzkoumáno)",
   "techview.completed.info": "Tuto technologii jste už vyzkoumali.",
-  "techview.expensive.info": "Na koupi tohoto nemáte dost hvězd. Další hvězdy dostanete, když kliknete na ‚Další tah‘." ,
+  "techview.expensive.info": "Na koupi tohoto nemáte dost hvězd. Další hvězdy dostanete, když kliknete na ‚Další tah‘.",
   "techview.research": "VYZKOUMAT",
 
   "action.info.attack": "touto jednotkou zaútočit. Chcete-li zaútočit, zvolte jednotku a klikněte na nějaký ČERVENÝ terčík",
@@ -784,8 +784,8 @@
   "consent.enabled":"Osobní data povolena",
   "consent.enabled.info":"Nyní Polytopii dovolujete přistupovat k některým osobním datům za účelem vylepšování služeb a ukládání nejvyšších skóre atd. Pro více informací si přečtěte naše <u><a href='{0}'>zásady ochrany osobních údajů</a></u>.",
   "consent.disabled":"Osobní data zakázána",
-  "consent.disabled.info":"Abychom mohli ukládat některá osobní data jako nejvyšší skóre a statistiky používanosti, potřebujeme váš souhlas. Pro víc informací si přečtěte naše <u><a href='{0}'>zásady ochrany osobních údajů</a></u>.",
-  "consent.revoke":"odvolat souhlas",
+  "consent.disabled.info": "Abychom mohli ukládat některá osobní data jako nejvyšší skóre a statistiky používanosti, potřebujeme váš souhlas. Pro víc informací si přečtěte naše <u><a href='{0}'>zásady ochrany osobních údajů</a></u>.",
+  "consent.revoke": "odvolat souhlas",
 
   "onlineview.title": "MULTIPLAYER",
   "onlineview.loadingservice": "Načítání služby",
