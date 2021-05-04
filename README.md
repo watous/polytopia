@@ -3,4 +3,4 @@
 Czech translation of The Battle of Polytopia;  
 Český překlad The Battle of Polytopia
 
-poznámka: některé fráze znějí trochu krkolomně, aby fungovala gramatika.
+(2021) - Snažím se překlad aktualizovat s aktualizacemi Polytopie, ale je to poněkud složité, jelikož zřejmě nezveřejňují aktualizace anglického originálu. Ocením jakoukoliv pomoc!
