@@ -27,7 +27,7 @@
   "tribepicker.restoring": "obnovování...",
   "tribepicker.reset": "vynulovat nákupy",
   "tribepicker.tba": "...",
-  "tribepicker.underconstruction": "V procesu",
+  "tribepicker.underconstruction": "Děláme na tom",
   "tribepicker.underconstruction.description": "Na tomto kmeni dosud pracujeme. Pěstujeme ovoce, vyvíjíme jazyky a architekturu. Jistě chápete, že to nějakou dobu trvá. Sledujte @Midjiwan na Instagramu nebo Twitteru a až přijde čas, dozvíte se to jako první!",
   "tribepicker.freetribe": "Kmen zdarma",
   "tribepicker.freetribe.description": "Tento kmen je dostupný zdarma, takže si ho k odemknutí online multiplayeru koupit nemůžete.",
@@ -51,6 +51,8 @@
   "tribepicker.mapsize": "Velikost mapy: {0} políček",
   "tribepicker.gamemode": "Herní mód: {0}",
   "tribepicker.maptype": "Typ světa: {0}",
+  "tribepicker.waiting": "ČEKÁNÍ",
+  "tribepicker.buy": "KOUPIT",
 
   "gamesettings.title": "NASTAVENÍ HRY",
   "gamesettings.yourname": "Vaše jméno",
@@ -95,7 +97,7 @@
   "gamesettings.network.online": "Online",
   "gamesettings.network.passplay": "Offline",
   "gamesettings.online.disabled": "Online je zamčený",
-  "gamesettings.online.disabled.info": "K hraní online je potřeba několik věcí",
+  "gamesettings.online.disabled.info": "K hraní online musíte zařídit ještě několik věcí",
   "gamesettings.online.info": "Hrajte se svými přáteli online přes naše servery.",
   "gamesettings.passplay.info": "Hrajte se svými přáteli offline. Nechte zařízení kolovat.",
 
@@ -260,6 +262,7 @@
   "building.ability.patina": "{0} postupně roste, tak je stavte co nejdříve.",
   "building.ability.limited": "{0} se dá u každého města postavit jen jednou.",
   "building.ability.unique": "{0} se dá postavit jen jednou.",
+  "building.ability.poison": "{0} otráví každou jednotku, co na políčko vstoupí. Otrávené jednotky ztrácí všechny obranné bonusy a po smrti rozesejí další {1}.",
   "building.restriction.near": "Na přilehlém políčku musí být {0}.",
   "building.restriction.on": "Na daném políčku musí být {0}.",
   "building.names.city": "Město",
@@ -368,7 +371,7 @@
   "unit.abilities.skate": "BRUSLENÍ",
   "unit.abilities.fortify": "OPEVNĚNÍ",
   "unit.abilities.independent": "NEZÁVISLOST",
-  "unit.abilities.creep": "PLÍŽENÍ",
+  "unit.abilities.creep": "KLESTĚNÍ",
   "unit.abilities.boost": "POSÍLENÍ",
   "unit.abilities.eat": "ŽRANÍ",
   "unit.abilities.explode": "VÝBUCH",
@@ -387,6 +390,7 @@
   "resource.names.whale": "velryba",
   "resource.names.game": "divoká zvěř",
   "resource.names.metal": "ruda",
+  "resource.names.spores": "výtrusy",
 
   "terrain.unknown": "Neznámá země",
   "terrain.water": "Voda",
@@ -403,6 +407,8 @@
   "actionbox.village": "Vesnice",
   "actionbox.unit.frozen": "Mrznoucí {0}",
   "actionbox.unit.Frozen": "mrznoucí",
+  "actionbox.unit.Poisoned": "otrávená jednotka",
+  "actionbox.unit.Boosted": "posílená jednotka",
   "actionbox.unit.kills": "{0}/{1} zabitých",
   "actionbox.unit.veteran": "Veterán",
   "actionbox.unit.new": "Vycvičit jednotku {0} {1}",
@@ -610,7 +616,7 @@
   "wcontroller.removingplayer": "Odstraňování hráče",
   "wcontroller.not.your.turn": "Ještě nejste ma tahu!",
   "wcontroller.picktribe.notification": "wcontroller.picktribe.notification(!)",
-  "wcontroller.matchmaking.waitingforplayers": "Připijili jste se ke hře ‚{0}‘. Čeká se na další hráče.",
+  "wcontroller.matchmaking.waitingforplayers": "Připijili jste se ke hře {0}. Čeká se na další hráče.",
 
   "technology.intro": "Tato technologie umožňuje následující:",
   "technology.build": "s technologií {0} se dá postavit {1}",
@@ -684,6 +690,7 @@
   "action.info.meet": "Potkat",
   "action.info.promote": "Povýšit jednotku",
   "action.info.examine": "Prozkoumat",
+  "action.info.examineruins": "Prozkoumat",
   "action.info.endturn": "ukončit tah. Další tah dostanete nové hvězdy a vaše jednotky se budou moci znovu pohnout. Klikněte na ‚Další tah‘.",
   "action.info.stay": "Zůstat",
   "action.info.healarea": "Léčit okolí",
@@ -899,6 +906,7 @@
   "onlineview.matchmaking": "NÁHODNÁ HRA",
   "onlineview.loading.title": "onlineview.loading.title(!)",
   "onlineview.waiting": "Čekající na hráče",
+  "onlineview.waiting.server": "Čekání na odpověď serveru...",
   "onlineview.resigned.title": "onlineview.resigned.title(!)",
   "onlineview.resigned.info": "onlineview.resigned.info(!)",
   "onlineview.gamedeleted.title": "onlineview.gamedeleted.title(!)",
@@ -906,6 +914,8 @@
 
   "matchmakinggameinfo.waitingforplayers": "Čeká se ještě na {0} hráče/ů",
   "matchmakinggameinfo.waited": "Čeká se už",
+
+  "gameservice.android": "Přihlášení do obchodu Google",
 
   "firebaseservice.status.connecting": "Připojování k serveru Polytopie...",
   "firebaseservice.status.loading": "Načítání herních dat...",
@@ -1079,7 +1089,9 @@
   "updateavatar.save": "ULOŽIT",
 
   "playerinfopopup.friend": "přítel", 
-  "playerinfopopup.you.description": "Toto jste vy",
+  "playerinfopopup.you.description": "Toto jste vy. Hodně štěstí při hře.",
+  "playerinfopopup.passandplay.description": "Tento hráč by měl být někde u vás...",
+  "playerinfopopup.bot.description": "Toto je počítač, vžuum!",
 
   "friendlist.reloading": "Aktualizace...",
   "friendlist.uptodate": "Všechno je aktuální",
