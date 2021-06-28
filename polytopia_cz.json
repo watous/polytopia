@@ -11,6 +11,8 @@
   "news.title": "NOVINKY POLYTOPIE",
   "news.description": "Vítejte!\n Tady s vámi sdílíme nejnovější zprávy ze světa Polytopie.",
   "news.timeago": "před {0}",
+  "news.error.failed": "Novinky se nepodařilo načíst.",
+
   "gamemodepicker.title": "HERNÍ MÓD",
 
   "notifications.defaultheader": "Upozornění",
@@ -101,8 +103,8 @@
   "gamesettings.network.passplay": "Offline",
   "gamesettings.online.disabled": "Hraní online je zakázané",
   "gamesettings.online.disabled.info": "Ke hraní online musíte zařídit ještě několik věcí",
-  "gamesettings.online.info": "Hrajte se svými přáteli online přes naše servery.",
-  "gamesettings.passplay.info": "Hrajte se svými přáteli offline. Nechte zařízení kolovat.",
+  "gamesettings.online.info": "Zahrajete si s přáteli online přes naše servery, každý na vlastním zařízení.",
+  "gamesettings.passplay.info": "Zahrajete si s přáteli offline tak, že necháte své zařízení kolovat.",
 
   "gamesettings.map": "Typ světa",
   "gamesettings.map.dryland": "Suchý svět",
@@ -135,7 +137,7 @@
 
 
   "gamemode.custom.caps": "VLASTNÍ",
-  "gamemode.custom.description.button": "Nastavte si hru podle sebe a hrajte, jak je libo.",
+  "gamemode.custom.description.button": "Nastavte si hru zcela podle sebe a hrajte, jak je libo.",
   "gamemode.sandbox": "Nekonečno",
   "gamemode.sandbox.description": "Hrajte jakkoliv, navěky věků",
 
@@ -149,7 +151,7 @@
   "gamemode.might.win": "Zabrali jste všechna hlavní města",
   "gamemode.death": "Vaše poslední město podlehlo, jste poraženi.",
 
-  "world.intro.title": "Mocná vůdkyně, Mocný vůdče!",
+  "world.intro.title": "Mocná vůdkyně, Mocný vůdce!",
   "world.intro.text": "Vybrali Vás, abyste vládli kmeni {0}. Objevujte svět a rozšiřujte svou říši, ale dejte si pozor na ostatní kmeny.",
   "world.intro.objective": "Cíl: {0}",
   "world.turn.end": "Ukončit tah",
@@ -730,6 +732,9 @@
 
   "stringtools.typelist.and": "a",
 
+  "misc.error.title": "Chyba",
+  "error.unknown": "Nepodařilo se načíst hru ({0})",
+
   "topbar.score": "Skóre",
   "topbar.turn": "Tah",
   "topbar.stars": "Hvězdy (+{0})",
@@ -818,7 +823,7 @@
   "settings.suggestions": "Návrhy",
   "settings.info": "Informace o stavbě",
   "settings.confirm": "Potvrzení konce tahu",
-  "settings.saveexit": "ZPĚT DO HLAVNÍ NABÍDKY",
+  "settings.saveexit": "PŘERUŠIT HRU",
   "settings.on": "ZAP.",
   "settings.off": "VYP.",
   "settings.language": "Jazyk",
