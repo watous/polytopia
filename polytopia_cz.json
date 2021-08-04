@@ -453,7 +453,7 @@
   "tooltip.tile.capture": "Toto město se právě zabírá.",
   "tooltip.tile.capture.tip": "Když sem přesunete jednotku, můžete město zabrat!",
   "tooltip.tile.produces": "Každý tah produkuje {0}.",
-  "tooltip.tile.level.polaris": "Počet políček, které musíte zmrazit k dosažení další úrovně: {0}",
+  "tooltip.tile.level.polaris": "Počet políček, která musíte zmrazit k dosažení další úrovně: {0}",
   "tooltip.tile.level.next": "Za {0} tah(y) postoupí na další úroveň",
   "tooltip.tile.level.max": "Dosažena nejvyšší úroveň",
   "tooltip.tile.sailing": "Když sem přesunete jednotku, můžete vyplout!",
