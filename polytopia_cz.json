@@ -740,7 +740,7 @@
   "stringtools.typelist.and": "a",
 
   "misc.error.title": "Chyba",
-  "error.unknown": "Hru se nepodařilo načíst ({0})",
+  "error.unknown": "Načtení se nezdařilo ({0})",
 
   "topbar.score": "Skóre",
   "topbar.turn": "Tah",
@@ -1145,6 +1145,6 @@
   "friendlist.friendshipstate.receivedrequest": "Dostali jste žádost o přátelství. Přijímáte?",
   "friendlist.friendshipstate.rejected": "Žádost o přátelství odmítnuta.",
 
-  "friendList.winratio": "vzájemné hry",
-  "firendList.winratio": "vzájemné hry"
+  "friendList.winratio": "podíl výher",
+  "firendList.winratio": "podíl výher"
 }
