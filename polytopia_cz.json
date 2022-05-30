@@ -511,7 +511,7 @@
   "tooltip.tile.outside": "Tento zdroj je mimo vaši říši",
   "tooltip.tile.research": "Sem můžete přesunout jednotku jen s technologií {0}",
   "tooltip.tile.explore": "Tato oblast čeká na prozkoumání!",
-  "tooltip.tile.riot": "Ve městě je vzpoura! Tento tah z něj nemáte příjem.",
+  "tooltip.tile.riot": "Ve městě je vzpoura! Tento tah z něj není příjem.",
   "tooltip.unit.city.capture": "Toto město si k říši připojíte kliknutím na ‚Zabrat‘",
   "tooltip.unit.city.capture.next": "Příští tah bude toto město připravené k zabrání",
   "tooltip.unit.city.capture.flying": "Létající jednotka nemůže zabrat město",
