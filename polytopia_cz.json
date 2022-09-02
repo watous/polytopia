@@ -419,7 +419,7 @@
   "gameitem.timelimit": "Časový limit",
   "gameitem.timelimit.info": "Na tah máte {0}, potom vás můžou vyhodit ze hry.",
   "gameitem.timelimit.timeleft": "Časový limit",
-  "gameitem.timelimit.timeleft.info": "\tTolik času ještě máte na tah. Když vyprší, tak vám tah automaticky propadne.\n\tV této hře vám zatím propadl {0}krát.\n\tPo {1} propadlých tazích vypadnete ze hry".
+  "gameitem.timelimit.timeleft.info": "\tTolik času ještě máte na tah. Když vyprší, tak vám tah automaticky propadne.\n\tV této hře vám zatím propadl {0}krát.\n\tPo {1} propadlých tazích vypadnete ze hry.",
   "gameitem.timeup": "Čas vypršel!",
   "gameitem.timeup.info": "Vypršel vám čas na tah, nechcete se vzdát?",
   "gameitem.turn": "{0} může hrát",
@@ -497,7 +497,7 @@
   "gamesettings.info.seed": "semínko (seed)",
   "gamesettings.info.turnlimit30": ", limit 30 tahů",
   "gamesettings.livegame": "Pružný čas",
-  "gamesettings.livegame.description": "S pružným časovačem se čas na tah přizpůsobuje tomu, kolik máte měst a jednotek. Když vám čas přebude, přenese se do dalšího tahu."
+  "gamesettings.livegame.description": "S pružným časovačem se čas na tah přizpůsobuje tomu, kolik máte měst a jednotek. Když vám čas přebude, přenese se do dalšího tahu.",
   "gamesettings.map": "Typ světa",
   "gamesettings.map.archipelago": "Souostroví",
   "gamesettings.map.continents": "Světadíly",
